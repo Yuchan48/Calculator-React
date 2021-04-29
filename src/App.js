@@ -26,6 +26,8 @@ export default class App extends React.Component {
     });
   };
 
+
+
   equator = () => {
     const input = this.state.formula;
 
