@@ -1,6 +1,7 @@
 import React from "react";
 import Buttons from "./Buttons";
 
+
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -25,8 +26,6 @@ export default class App extends React.Component {
       deci: false,
     });
   };
-
-
 
   equator = () => {
     const input = this.state.formula;
