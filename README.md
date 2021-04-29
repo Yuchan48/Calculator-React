@@ -1,6 +1,6 @@
 # Calculator
 
-## symple calculator built with React library
+## simple calculator built with React library
 ___
 
 ### live App : https://calculator202104.herokuapp.com/  
