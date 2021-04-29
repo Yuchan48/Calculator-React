@@ -1,11 +1,9 @@
 # Calculator
 
-symple calculator built with React library.
+## symple calculator built with React library
+___
 
-live App : https://calculator202104.herokuapp.com/  
-\
+### live App : https://calculator202104.herokuapp.com/  
 
-<img
-src="https://i.imgur.com/DoJNDpJ.jpg"
-width: 100px
-/>
+![alt simple calculator](https://i.imgur.com/M1X7bsBm.jpg)
+
