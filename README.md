@@ -9,6 +9,7 @@ simple calculator built with React library
 - `--` will be `+`
 - two `.` in one number will not be accepted
 - number begin with multiple 0 will be a single 0.
+- number will be rounded to up to 6 decimal places
 
 
 ___
