@@ -9,7 +9,7 @@ export default class Buttons extends React.Component {
             AC
           </button>
           <button onClick={this.props.operator} value="/" id="divide">
-          ÷
+            ÷
           </button>
           <button onClick={this.props.operator} value="*" id="multiply">
             x
