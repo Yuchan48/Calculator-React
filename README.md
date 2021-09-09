@@ -13,7 +13,6 @@ simple calculator built using React.js and TypeScript
 
 ___
 
-### live App : https://react-calculator-yuchan.herokuapp.com/ 
 
 ![alt simple calculator](https://i.imgur.com/M1X7bsBm.jpg)
 
