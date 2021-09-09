@@ -1,16 +1,15 @@
 # Calculator
 
-simple calculator built with React library
+simple calculator built using React.js and TypeScript
 
 ### features
 
-- on the top of the screen will show all the numbers and operators for current operation. and the bottom is the current number or operator entered.
+- Show formula 
 - If 2 or more operators are entered consecutively, the last oprator entered will be performed. except `-`.
 - `--` will be `+`
-- two `.` in one number will not be accepted
-- number begin with multiple 0 will be a single 0.
-- number will be rounded to up to 6 decimal places
-
+- Multiple `.` in a single number will not be accepted
+- Number begin with multiple 0 will be a single 0.
+- Number will be rounded to up to 6 decimal places.
 
 ___
 

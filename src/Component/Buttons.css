@@ -1,0 +1,64 @@
+#buttons {
+  background-color: #f2bbbb;
+  height: 340px;
+  width: 300px;
+  margin-top: 8px;
+}
+
+button {
+  height: 68px;
+  width: 75px;
+  position: relative;
+  background-color: #f0d8c0;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#clear,
+#zero {
+  width: 150px;
+}
+
+#equals {
+  height: 136px;
+  margin: 0;
+  position: absolute;
+}
+
+#clear {
+  background-color: #8c6456;
+}
+
+#equals {
+  background-color: #8c5e54;
+}
+
+#divide,
+#add,
+#multiply,
+#subtract {
+  background-color: #a65d6a;
+}
+
+@media (max-width: 340px) {
+  #buttons {
+    height: calc(340px * 0.9);
+    width: calc(300px * 0.9);
+    margin-top: calc(8px * 0.9);
+  }
+
+  button {
+    height: calc(68px * 0.9);
+    width: calc(75px * 0.9);
+    font-size: calc(25px * 0.9);
+  }
+
+  #clear,
+  #zero {
+    width: calc(150px * 0.9);
+  }
+
+  #equals {
+    height: calc(136px * 0.9);
+  }
+}
